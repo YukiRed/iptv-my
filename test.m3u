@@ -144,10 +144,10 @@ http://new-pro.tv:8080/golden_eagle/khalid/87462
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="National Geographic HD" tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="Documentary",National Geographic HD
-https://list.iptvcat.com/my_list/s/d1a6222383824b18036c86b9b4bd9acc.m3u8
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1095
 
 #EXTINF:-1 tvg-id="discoverychannel.id" tvg-name="Discovery Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/e52fb22b3dcf6f6ba49cbf9a6818680a.png" group-title="Documentary",Discovery Channel HD
-https://list.iptvcat.com/my_list/s/f309216af1eaf8ca866c52f3e58a6cef.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11369
 
 #EXTINF:-1  tvg-id="611" group-title="TV" tvg-logo="https://i.postimg.cc/g2BtMJG0/Astro-Ceria.png",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
