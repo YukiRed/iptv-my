@@ -156,15 +156,15 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6799
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6798
 #EXTINF:-1  tvg-id="MY: HBO HD" group-title="Astro" tvg-logo="http://tvmalaysia.cc:80/images/19c0a3768306086c9601f4c7c5a5cc81.jpg",HBO HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6797
-#EXTINF:-1  tvg-id="tv1.my" group-title="LIVE | MEDIA PRIMA" tvg-logo="http://tvmalaysia.cc:80/images/3a5bd2db93ff7c8fa8cfa766ec51481b.png",TV 1
+#EXTINF:-1  tvg-id="tv1.my" group-title="Media Prima" tvg-logo="http://tvmalaysia.cc:80/images/3a5bd2db93ff7c8fa8cfa766ec51481b.png",TV 1
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7177
-#EXTINF:-1  tvg-id="tv2.my" group-title="LIVE | MEDIA PRIMA" tvg-logo="http://tvmalaysia.cc:80/images/881a902a067b6a619e8dd491e704964c.png",TV 2
+#EXTINF:-1  tvg-id="tv2.my" group-title="Media Prima" tvg-logo="http://tvmalaysia.cc:80/images/881a902a067b6a619e8dd491e704964c.png",TV 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7178
-#EXTINF:-1  tvg-id="tv3.my" group-title="LIVE | MEDIA PRIMA" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png",TV 3 HD
+#EXTINF:-1  tvg-id="tv3.my" group-title="Media Prima" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png",TV 3 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8750
-#EXTINF:-1  tvg-id="tv9.my" group-title="LIVE | MEDIA PRIMA" tvg-logo="http://tvmalaysia.cc:80/images/4cc2f264fadb0fe24376bd9dc1cae3f7.png",TV 9
+#EXTINF:-1  tvg-id="tv9.my" group-title="Media Prima" tvg-logo="http://tvmalaysia.cc:80/images/4cc2f264fadb0fe24376bd9dc1cae3f7.png",TV 9
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7185
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | MEDIA PRIMA" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png",RTM Sports
+#EXTINF:-1  tvg-id="N/A" group-title="Media Prima" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png",RTM Sports
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7186
 #EXTINF:-1  tvg-id="MY: CNN HD" group-title="Astro" tvg-logo="https://i.postimg.cc/gcV8WqfL/cnn-logo-white-on-red.jpg",CNN HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6767
@@ -204,33 +204,33 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6827
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6826
 #EXTINF:-1  tvg-id="skynews.uk" group-title="Astro" tvg-logo="https://i.postimg.cc/sf6frMcr/sky-news-new-logo.jpg",Sky News HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7192
-#EXTINF:-1  tvg-id="beritartm.my" group-title="LIVE | MEDIA PRIMA" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg",Berita RTM
+#EXTINF:-1  tvg-id="beritartm.my" group-title="Media Prima" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg",Berita RTM
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7191
-#EXTINF:-1  tvg-id="bernamatv.my" group-title="LIVE | MEDIA PRIMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png",BERNAMA
+#EXTINF:-1  tvg-id="bernamatv.my" group-title="Media Prima" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png",BERNAMA
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7190
-#EXTINF:-1  tvg-id="ID: !NSERT" group-title="LIVE | MEDIA PRIMA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png",RTB MALAYSIA
+#EXTINF:-1  tvg-id="ID: !NSERT" group-title="Media Prima" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png",RTB MALAYSIA
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7188
-#EXTINF:-1  tvg-id="foxmoviespremiumhd.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/063a1e48ae1996a258b35db937d48c9b.jpg",Fox Movies Premium
+#EXTINF:-1  tvg-id="foxmoviespremiumhd.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/063a1e48ae1996a258b35db937d48c9b.jpg",Fox Movies Premium
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8838
-#EXTINF:-1  tvg-id="foxactionmovieshd.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png",Fox Action Movies
+#EXTINF:-1  tvg-id="foxactionmovieshd.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png",Fox Action Movies
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8839
-#EXTINF:-1  tvg-id="cinemax.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax FHD
+#EXTINF:-1  tvg-id="cinemax.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax FHD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7062
-#EXTINF:-1  tvg-id="hbohd.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg",HBO FHD
+#EXTINF:-1  tvg-id="hbohd.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg",HBO FHD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7067
-#EXTINF:-1  tvg-id="hbohitshd.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg",HBO Hits FHD
+#EXTINF:-1  tvg-id="hbohitshd.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg",HBO Hits FHD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7068
-#EXTINF:-1  tvg-id="hbosignaturehd.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png",HBO Signature FHD
+#EXTINF:-1  tvg-id="hbosignaturehd.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png",HBO Signature FHD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7069
-#EXTINF:-1  tvg-id="hbofamilyhd.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png",HBO Family FHD
+#EXTINF:-1  tvg-id="hbofamilyhd.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png",HBO Family FHD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7070
-#EXTINF:-1  tvg-id="hitsmovies.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png",Hits Movies
+#EXTINF:-1  tvg-id="hitsmovies.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png",Hits Movies
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7066
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg",Red By HBO HD
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg",Red By HBO HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7071
-#EXTINF:-1  tvg-id="warnertv.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png",Warner TV HD
+#EXTINF:-1  tvg-id="warnertv.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png",Warner TV HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7072
-#EXTINF:-1  tvg-id="tvnmovies.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/4b198ded39b98f40cd51bb35e638b9f3.png",tVN movies HD
+#EXTINF:-1  tvg-id="tvnmovies.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/4b198ded39b98f40cd51bb35e638b9f3.png",tVN movies HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7074
 #EXTINF:-1  tvg-id="nationalgeographicchannelhd.id" group-title="Documentary" tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1",National Geographic HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7075
@@ -242,221 +242,221 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7078
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7077
 #EXTINF:-1  tvg-id="hgtv.id" group-title="Documentary" tvg-logo="http://tvmalaysia.cc:80/images/4fbf759d882bba8bf2f629a61df99878.png",HGTV
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7076
-#EXTINF:-1  tvg-id="MY: ERA FM" group-title="LIVE | RADIO MALAYSIA" tvg-logo="https://i.postimg.cc/4xN3NJ6K/Logo-Radio-Era-fm.png",Era FM
+#EXTINF:-1  tvg-id="MY: ERA FM" group-title="Radio" tvg-logo="https://i.postimg.cc/4xN3NJ6K/Logo-Radio-Era-fm.png",Era FM
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7169
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | RADIO MALAYSIA" tvg-logo="https://i.postimg.cc/fbSDJkJb/featured-logo-hotfm-1200x630.jpg",Hot FM
+#EXTINF:-1  tvg-id="N/A" group-title="Radio" tvg-logo="https://i.postimg.cc/fbSDJkJb/featured-logo-hotfm-1200x630.jpg",Hot FM
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7170
-#EXTINF:-1  tvg-id="MY: HITZ FM" group-title="LIVE | RADIO MALAYSIA" tvg-logo="https://i.postimg.cc/cLw0cMKw/686-C4852-63-B3-4286-980-B-B832-F5829900.png",Hitz FM
+#EXTINF:-1  tvg-id="MY: HITZ FM" group-title="Radio" tvg-logo="https://i.postimg.cc/cLw0cMKw/686-C4852-63-B3-4286-980-B-B832-F5829900.png",Hitz FM
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7171
-#EXTINF:-1  tvg-id="MY: SINAR FM" group-title="LIVE | RADIO MALAYSIA" tvg-logo="https://i.postimg.cc/d1nN2PHx/Sinar-FM.jpg",Sinar FM
+#EXTINF:-1  tvg-id="MY: SINAR FM" group-title="Radio" tvg-logo="https://i.postimg.cc/d1nN2PHx/Sinar-FM.jpg",Sinar FM
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7172
-#EXTINF:-1  tvg-id="MY: SINAR FM" group-title="LIVE | RADIO MALAYSIA" tvg-logo="https://i.postimg.cc/d1nN2PHx/Sinar-FM.jpg",Sinar FM (backup)
+#EXTINF:-1  tvg-id="MY: SINAR FM" group-title="Radio" tvg-logo="https://i.postimg.cc/d1nN2PHx/Sinar-FM.jpg",Sinar FM (backup)
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7173
-#EXTINF:-1  tvg-id="MY: THR GEGAR" group-title="LIVE | RADIO MALAYSIA" tvg-logo="https://i.postimg.cc/C1Gp0v44/logo200.jpg",THR GEGAR
+#EXTINF:-1  tvg-id="MY: THR GEGAR" group-title="Radio" tvg-logo="https://i.postimg.cc/C1Gp0v44/logo200.jpg",THR GEGAR
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7174
-#EXTINF:-1  tvg-id="MY: THR GEGAR" group-title="LIVE | RADIO MALAYSIA" tvg-logo="https://i.postimg.cc/C1Gp0v44/logo200.jpg",THR GEGAR (backup)
+#EXTINF:-1  tvg-id="MY: THR GEGAR" group-title="Radio" tvg-logo="https://i.postimg.cc/C1Gp0v44/logo200.jpg",THR GEGAR (backup)
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7175
-#EXTINF:-1  tvg-id="ID: CINEMA WORLD HD" group-title="LIVE | MOVIE (subtitle)" tvg-logo="https://i.postimg.cc/1Xcz48Bp/download-28.jpg",Cinema World
+#EXTINF:-1  tvg-id="ID: CINEMA WORLD HD" group-title="Movie" tvg-logo="https://i.postimg.cc/1Xcz48Bp/download-28.jpg",Cinema World
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7219
-#EXTINF:-1  tvg-id="thrill.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/963c196b98b7111073c3ae49f91f3d3f.jpg",Thrill
+#EXTINF:-1  tvg-id="thrill.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/963c196b98b7111073c3ae49f91f3d3f.jpg",Thrill
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7220
-#EXTINF:-1  tvg-id="axn.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg",AXN
+#EXTINF:-1  tvg-id="axn.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg",AXN
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7223
-#EXTINF:-1  tvg-id="foxcrime.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg",Fox Crime
+#EXTINF:-1  tvg-id="foxcrime.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg",Fox Crime
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7225
-#EXTINF:-1  tvg-id="fox.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png",FOX
+#EXTINF:-1  tvg-id="fox.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png",FOX
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7227
-#EXTINF:-1  tvg-id="ID: FOX LIFE" group-title="LIVE | MOVIE (subtitle)" tvg-logo="https://i.postimg.cc/fySBn0cf/Fox-Life-pt-logo.png",Fox Life
+#EXTINF:-1  tvg-id="ID: FOX LIFE" group-title="Movie" tvg-logo="https://i.postimg.cc/fySBn0cf/Fox-Life-pt-logo.png",Fox Life
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6576
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png",DSTV: SuperSport Variety 1
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png",DSTV: SuperSport Variety 1
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6577
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png",DSTV: SuperSport Variety 2
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png",DSTV: SuperSport Variety 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6578
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png",DSTV: SuperSport Variety 3
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png",DSTV: SuperSport Variety 3
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6579
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png",DSTV: SuperSport Variety 4
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png",DSTV: SuperSport Variety 4
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6580
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/87f9188df2215a476290fa0e98b0e751.png",DSTV: SuperSport Cricket
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/87f9188df2215a476290fa0e98b0e751.png",DSTV: SuperSport Cricket
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6583
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png",DSTV: Supersport Blitz
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png",DSTV: Supersport Blitz
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6584
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png",DSTV: SuperSport MáXimo
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png",DSTV: SuperSport MáXimo
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6585
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png",DSTV: SuperSport Rugby
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png",DSTV: SuperSport Rugby
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6582
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png",DSTV: SuperSport Action
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png",DSTV: SuperSport Action
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6581
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/e1e9009280ca2bd4f72fdced323cebae.png",DSTV: SuperSport Motorsport
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/e1e9009280ca2bd4f72fdced323cebae.png",DSTV: SuperSport Motorsport
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7142
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="https://i.postimg.cc/prhfQQbf/1613351683433.png",DSTV: SuperSport Tennis
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="https://i.postimg.cc/prhfQQbf/1613351683433.png",DSTV: SuperSport Tennis
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7143
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="https://i.postimg.cc/x1RzzpNr/1613350615698.png",DSTV: SuperSport WWE
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="https://i.postimg.cc/x1RzzpNr/1613350615698.png",DSTV: SuperSport WWE
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7144
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="https://i.postimg.cc/2jM3LRHL/1613350336105.png",DSTV: SuperSport Golf
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="https://i.postimg.cc/2jM3LRHL/1613350336105.png",DSTV: SuperSport Golf
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7145
-#EXTINF:-1  tvg-id="SA: BEIN SPORTS HD2 ARABIC" group-title="LIVE | SPORTS" tvg-logo="https://i.postimg.cc/wxh6K4F8/1606697373987.png",BeIN Sport 2
+#EXTINF:-1  tvg-id="SA: BEIN SPORTS HD2 ARABIC" group-title="Sport" tvg-logo="https://i.postimg.cc/wxh6K4F8/1606697373987.png",BeIN Sport 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6598
-#EXTINF:-1  tvg-id="SA: BEIN SPORTS HD13 ARABIC" group-title="LIVE | SPORTS" tvg-logo="https://i.postimg.cc/cHkkPSjM/1606697595212.png",BeIN Sport 13
+#EXTINF:-1  tvg-id="SA: BEIN SPORTS HD13 ARABIC" group-title="Sport" tvg-logo="https://i.postimg.cc/cHkkPSjM/1606697595212.png",BeIN Sport 13
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6609
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",=== BT SPORT ===
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",=== BT SPORT ===
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7218
-#EXTINF:-1  tvg-id="kix.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="https://i.postimg.cc/JhPLtS9d/1200px-KIX-logo-svg.png",KiX
+#EXTINF:-1  tvg-id="kix.id" group-title="Movie" tvg-logo="https://i.postimg.cc/JhPLtS9d/1200px-KIX-logo-svg.png",KiX
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7229
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | MOVIE (subtitle)" tvg-logo="https://i.postimg.cc/bwFrd64g/download-29.jpg",Celestial Classic Movies.
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://i.postimg.cc/bwFrd64g/download-29.jpg",Celestial Classic Movies.
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7222
-#EXTINF:-1  tvg-id="celestialmovies.id" group-title="LIVE | MOVIE (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg",Celestial Movies
+#EXTINF:-1  tvg-id="celestialmovies.id" group-title="Movie" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg",Celestial Movies
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7235
 #EXTINF:-1  tvg-id="N/A" group-title="Astro" tvg-logo="N/A",WLT JADE
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8836
-#EXTINF:-1  tvg-id="blueantextreme.id" group-title="LIVE | VARIETY" tvg-logo="N/A",Blue Ant Extreme
+#EXTINF:-1  tvg-id="blueantextreme.id" group-title="Variety" tvg-logo="N/A",Blue Ant Extreme
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8861
-#EXTINF:-1  tvg-id="sonyonehd.id" group-title="LIVE | KOREA" tvg-logo="N/A",Sony One
+#EXTINF:-1  tvg-id="sonyonehd.id" group-title="Korea" tvg-logo="N/A",Sony One
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8863
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | KOREA" tvg-logo="N/A",TvN
+#EXTINF:-1  tvg-id="N/A" group-title="Korea" tvg-logo="N/A",TvN
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8865
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH:Channel 8 Thailand
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH:Channel 8 Thailand
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8751
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH:CTB
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH:CTB
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8752
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH:NBT Bangkok
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH:NBT Bangkok
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8753
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH:News 1
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH:News 1
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8754
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH:Thai PBS 3
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH:Thai PBS 3
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8755
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH:TPTV
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH:TPTV
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8756
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH:White Channel
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH:White Channel
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8757
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",TH | HBO HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="N/A",TH | HBO HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8758
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/altv.png?rev=8",TH | ALTV HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/altv.png?rev=8",TH | ALTV HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8759
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/hd-mono.png?rev=8",TH | MONO29 HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/hd-mono.png?rev=8",TH | MONO29 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8760
-#EXTINF:-1  tvg-id="MY: FOX SPORTS 3 HD" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png",FOX Sports 3 HD
+#EXTINF:-1  tvg-id="MY: FOX SPORTS 3 HD" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png",FOX Sports 3 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6792
-#EXTINF:-1  tvg-id="MY: ASTRO CRICKET HD" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/ff177c5033f26448c4af4c910a14984c.png",ASTRO Cricket
+#EXTINF:-1  tvg-id="MY: ASTRO CRICKET HD" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/ff177c5033f26448c4af4c910a14984c.png",ASTRO Cricket
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6717
-#EXTINF:-1  tvg-id="beinsportsmax.my" group-title="LIVE | SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN MAX
+#EXTINF:-1  tvg-id="beinsportsmax.my" group-title="Sport" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN MAX
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png",beIN MAX 2
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png",beIN MAX 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7195
-#EXTINF:-1  tvg-id="MY: WWE NETWORK HD" group-title="LIVE | SPORTS" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg",WWE Network
+#EXTINF:-1  tvg-id="MY: WWE NETWORK HD" group-title="Sport" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg",WWE Network
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
-#EXTINF:-1  tvg-id="MY: RUGBYPASS TV HD" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png",Rugby Pass TV
+#EXTINF:-1  tvg-id="MY: RUGBYPASS TV HD" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png",Rugby Pass TV
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6821
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",TSN 1
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",TSN 1
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8923
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",TSN 2
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",TSN 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8924
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",TSN 3
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",TSN 3
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8925
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",=== DSTV Supersport ===
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",=== DSTV Supersport ===
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7215
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png",DSTV: SuperSport Grandstand
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png",DSTV: SuperSport Grandstand
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6572
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png",DSTV: SuperSport PSL
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png",DSTV: SuperSport PSL
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6573
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png",DSTV: SuperSport Premier League
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png",DSTV: SuperSport Premier League
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6574
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png",DSTV: SuperSport La Liga
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png",DSTV: SuperSport La Liga
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6575
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png",LFC TV
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png",LFC TV
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7237
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",UFC
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",UFC
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7259
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",UFC PPV Early Prelims
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",UFC PPV Early Prelims
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7260
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",UFC PPV Prelims
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",UFC PPV Prelims
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7261
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",UFC PPV Main Card
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",UFC PPV Main Card
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7262
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",PPV Boxing
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",PPV Boxing
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7263
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",LowBW UFC PPV Main Card
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",LowBW UFC PPV Main Card
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7265
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",North Macedonia vs Netherlands | Group C | Amsterdam | Mon 21st Jun 5:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",North Macedonia vs Netherlands | Group C | Amsterdam | Mon 21st Jun 5:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8911
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Ukraine vs Austria | Group C | Bucharest | Mon 21st Jun 5:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Ukraine vs Austria | Group C | Bucharest | Mon 21st Jun 5:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8912
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Finland vs Belgium | Group B | Bucharest | Mon 21st Jun 8:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Finland vs Belgium | Group B | Bucharest | Mon 21st Jun 8:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8913
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Russia vs Denmark | Group B | Copenhagen | Mon 21st Jun 8:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Russia vs Denmark | Group B | Copenhagen | Mon 21st Jun 8:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8914
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Croatia vs Scotland | Group D | Glasgow | Tue 22nd Jun 8:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Croatia vs Scotland | Group D | Glasgow | Tue 22nd Jun 8:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8915
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Czech Republic vs England | Group D | London | Tue 22nd Jun 8:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Czech Republic vs England | Group D | London | Tue 22nd Jun 8:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8916
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Slovakia vs Spain | Group E | Seville | Wed 23rd Jun 5:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Slovakia vs Spain | Group E | Seville | Wed 23rd Jun 5:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8917
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Sweden vs Poland | Group E | St Petersburg | Wed 23rd Jun 5:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Sweden vs Poland | Group E | St Petersburg | Wed 23rd Jun 5:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8918
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Germany vs Hungary | Group F | Munich | Wed 23rd Jun 8:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Germany vs Hungary | Group F | Munich | Wed 23rd Jun 8:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8919
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | SPORTS" tvg-logo="N/A",Portugal vs France | Group F | Budapest | Wed 23rd Jun 8:00PM ⓧ
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="N/A",Portugal vs France | Group F | Budapest | Wed 23rd Jun 8:00PM ⓧ
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8920
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | Kids Channel" tvg-logo="N/A",CA: Disney Junior
+#EXTINF:-1  tvg-id="N/A" group-title="Kids Channel" tvg-logo="N/A",CA: Disney Junior
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7197
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | MEDIA PRIMA" tvg-logo="N/A",TV Okey
+#EXTINF:-1  tvg-id="N/A" group-title="Media Prima" tvg-logo="N/A",TV Okey
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8921
-#EXTINF:-1  tvg-id="ntv7.my" group-title="LIVE | MEDIA PRIMA" tvg-logo="N/A",Didik TV (NTV 7)
+#EXTINF:-1  tvg-id="ntv7.my" group-title="Media Prima" tvg-logo="N/A",Didik TV (NTV 7)
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8922
-#EXTINF:-1  tvg-id="astroarena.my" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",ASTRO Arena HD
+#EXTINF:-1  tvg-id="astroarena.my" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg",ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6707
-#EXTINF:-1  tvg-id="astrosupersport.my" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png",ASTRO SUPERSPORT HD
+#EXTINF:-1  tvg-id="astrosupersport.my" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
-#EXTINF:-1  tvg-id="astrosupersport3.my" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png",ASTRO SUPERSPORT 3 HD
+#EXTINF:-1  tvg-id="astrosupersport3.my" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png",ASTRO SUPERSPORT 3 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
-#EXTINF:-1  tvg-id="astrosupersport4.my" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1  tvg-id="astrosupersport4.my" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
-#EXTINF:-1  tvg-id="MY: FOX SPORTS" group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png",FOX Sports HD
+#EXTINF:-1  tvg-id="MY: FOX SPORTS" group-title="Sport" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png",FOX Sports HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6793
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/09_channel_logo.png?rev=8",TH | DLTV 9
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/09_channel_logo.png?rev=8",TH | DLTV 9
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8800
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/10_channel_logo.png?rev=8",TH | DLTV 10
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/10_channel_logo.png?rev=8",TH | DLTV 10
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8801
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/11_channel_logo.png?rev=8",TH | DLTV 11
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/11_channel_logo.png?rev=8",TH | DLTV 11
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8802
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/12_channel_logo.png?rev=8",TH | DLTV 12
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/12_channel_logo.png?rev=8",TH | DLTV 12
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8803
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/voice.png?rev=8",TH | Voice TV HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/voice.png?rev=8",TH | Voice TV HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8781
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/topnews.png?rev=8",TH | TOPNEWS
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/topnews.png?rev=8",TH | TOPNEWS
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8782
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/ArirangTV.kr.png?rev=8",TH | Arirang
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/ArirangTV.kr.png?rev=8",TH | Arirang
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8783
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/uk-bbcnewshd.png?rev=8",TH | BBC World News
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/uk-bbcnewshd.png?rev=8",TH | BBC World News
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8784
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/dw.png?rev=8",TH | DW
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/dw.png?rev=8",TH | DW
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8785
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/France24.png?rev=8",TH | France24
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/France24.png?rev=8",TH | France24
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8786
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/Aljazeera.png?rev=8",TH | Al Jazeera
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/Aljazeera.png?rev=8",TH | Al Jazeera
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8787
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/Russia-today.png?rev=8",TH | Russia Today
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/Russia-today.png?rev=8",TH | Russia Today
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8788
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/sony-espn-hd.jpg?rev=8",TH | Sony ESPN HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/sony-espn-hd.jpg?rev=8",TH | Sony ESPN HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8789
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/CBeebies-BEARTV.png?rev=8",TH | Cbeebies
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/CBeebies-BEARTV.png?rev=8",TH | Cbeebies
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8790
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/animax.png?rev=8",TH | Baby First
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/animax.png?rev=8",TH | Baby First
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8791
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png?rev=8",TH | DLTV 1
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png?rev=8",TH | DLTV 1
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8792
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/02_channel_logo.png?rev=8",TH | DLTV 2
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/02_channel_logo.png?rev=8",TH | DLTV 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8793
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/03_channel_logo.png?rev=8",TH | DLTV 1
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/03_channel_logo.png?rev=8",TH | DLTV 1
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8794
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/04_channel_logo.png?rev=8",TH | DLTV 2
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/04_channel_logo.png?rev=8",TH | DLTV 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8795
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/05_channel_logo.png?rev=8",TH | DLTV 5
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/05_channel_logo.png?rev=8",TH | DLTV 5
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8796
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/06_channel_logo.png?rev=8",TH | DLTV 6
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/06_channel_logo.png?rev=8",TH | DLTV 6
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8797
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/07_channel_logo.png?rev=8",TH | DLTV 7
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/07_channel_logo.png?rev=8",TH | DLTV 7
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8798
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.dltv.ac.th/upload/data/channels/08_channel_logo.png?rev=8",TH | DLTV 8
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.dltv.ac.th/upload/data/channels/08_channel_logo.png?rev=8",TH | DLTV 8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8799
 #EXTINF:-1  tvg-id="N/A" group-title="TAMIL | Malay Subtitle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkvkfOggj7HY6nQkiPYkkLcqdEL.jpg",Miss India (2020)
 http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/6641.mp4
@@ -490,45 +490,45 @@ http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/6654.mp4
 http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/6655.mp4
 #EXTINF:-1  tvg-id="N/A" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMICdcRBxiEUUpdAFCYRezE3Dy5.jpg",Words on Bathroom Walls (2020)
 http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/6656.mp4
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/ch3.png?rev=8",TH | CH3 HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/ch3.png?rev=8",TH | CH3 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8761
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/hd-ch7.png?rev=8",TH | CH7 HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/hd-ch7.png?rev=8",TH | CH7 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8762
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/Lakorn-Thai.png?rev=8",TH | Lakorn Thai
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/Lakorn-Thai.png?rev=8",TH | Lakorn Thai
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8763
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg?rev=8",TH | Paramount HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg?rev=8",TH | Paramount HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8764
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/Celestial-Movies-HD.png?rev=8",TH | Celestial Movies HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/Celestial-Movies-HD.png?rev=8",TH | Celestial Movies HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8765
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/ctb.png?rev=8",TH | CTB
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/ctb.png?rev=8",TH | CTB
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8766
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/Channel8.png?rev=8",TH | Channel 8
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/Channel8.png?rev=8",TH | Channel 8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8767
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/paramount.png?rev=8",TH | Paramount HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/paramount.png?rev=8",TH | Paramount HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8768
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/cinemaworld_vdsl.png?rev=8",TH | Cinema World
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/cinemaworld_vdsl.png?rev=8",TH | Cinema World
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8769
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/HunanTV.png?rev=8",TH | Hunan TV HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/HunanTV.png?rev=8",TH | Hunan TV HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8770
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/Blue-Ant-Extreme.png?rev=8",TH | Blue Ant Extreme HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/Blue-Ant-Extreme.png?rev=8",TH | Blue Ant Extreme HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8771
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/hgtv.png?rev=8",TH | HGTV
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/hgtv.png?rev=8",TH | HGTV
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8772
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg?rev=8",TH | MV Laos
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg?rev=8",TH | MV Laos
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8773
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/JasminTv.us.jpg?rev=8",TH | Jasmin TV
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/JasminTv.us.jpg?rev=8",TH | Jasmin TV
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8774
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/Fashion-TV.png?rev=8",TH | FASHION TV
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/Fashion-TV.png?rev=8",TH | FASHION TV
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8775
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/psi.png?rev=8",TH | PSI Saradee HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/psi.png?rev=8",TH | PSI Saradee HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8776
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/animal-planet.png?rev=8",TH | Animal Planet HD
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/animal-planet.png?rev=8",TH | Animal Planet HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8777
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/tlc.png?rev=8",TH | TLC
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/tlc.png?rev=8",TH | TLC
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8778
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/outdoor.png?rev=8",TH | Outdoor Channel
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/outdoor.png?rev=8",TH | Outdoor Channel
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8779
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="https://iptvthai.my.to/logo/dmax.png?rev=8",TH | DMAX
+#EXTINF:-1  tvg-id="N/A" group-title="Thailand" tvg-logo="https://iptvthai.my.to/logo/dmax.png?rev=8",TH | DMAX
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8780
 #EXTINF:-1  tvg-id="N/A" group-title="Horror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y63Sa7F2YFQPDSNQpS45p1iwTJ1.jpg",The Dark and the Wicked (2020)
 http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/326.mp4
@@ -626,3 +626,183 @@ http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/323.mp4
 http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/324.mp4
 #EXTINF:-1  tvg-id="N/A" group-title="Adventure" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSjTnz7zVBEVfDkbwuzDRqTiVB8.jpg",The Thousand Faces of Dunjia (2017)
 http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/325.mp4
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Animal Planet HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6695
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6700
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6701
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6739
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6726
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Colors Cineplex
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6768
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TLC HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6832
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6814
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV 3
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7266
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7081
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7080
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Fox Life
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7228
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BBC Earth
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7233
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Asia Food Network
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8857
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Crime & Investigation
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8858
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Blue Ant Entertainment
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8860
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TLC
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8862
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sony Gem
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8864
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Disney Channel HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7196
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | NNU5 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8804
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | 3 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8805
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | 7 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8806
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | MCOT HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8807
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | PPTV HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8808
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | THAIRATH HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8809
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | TRUE4U 24 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8810
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | PremierHD1
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8811
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | PremierHD2
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8812
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | PremierHD3
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8813
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | PremierHD4
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8814
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | PremierHD5
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8815
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | SkynetsportHD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8816
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | True Sport HD1
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8817
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | True Sport HD2
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8818
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | True Sport HD3
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8819
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | True Sport HD4
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8820
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | Fox Sport2
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8821
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | Fox Sport3
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8822
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | Tennis HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8823
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | NBA HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8824
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | Golf HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8825
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8826
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8827
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | FoxThai_TH
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8828
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | AXN HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8829
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | WarnerTV HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8830
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | HISTORY HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8831
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | H2 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8832
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | DiscoveryHDWorld
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8833
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TH | AnimalPlanet
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8834
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Asia.
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8856
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Astro Wah Lai Toi
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8970
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8986
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8991
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",மக்கள் தொலைக்காட்சி
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8995
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Star Movies HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8997
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MNX
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8998
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Movies Now
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8999
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TESTNEW
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9001
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",sig
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9005
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",actionaction
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9006
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",foxmoviebeta
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9007
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",cinemax..
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9008
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",=== ASTRO SPORTS ===
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7214
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Arena ( B )
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9010
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6791
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",beIN Sports
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6749
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6796
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",====== TSN ======
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8969
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TSN 4
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8926
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6597
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BT Sport 1
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6610
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BT Sport 2
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6611
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BT Sport 3
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6612
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6613
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7112
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7113
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",=== SKY SPORTS ===
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7217
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6614
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6615
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6617
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6618
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6620
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6621
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6619
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7114
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7115
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7116
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MUTV
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7236
