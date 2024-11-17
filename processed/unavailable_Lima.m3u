@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="La5ta.pe" tvg-logo="https://i.imgur.com/1FRWCa6.png" group-title="General",La 5ta
+https://video.ingenioperu.com:3844/stream/play.m3u8
+#EXTINF:-1 tvg-id="NacionalTvPeru.pe" tvg-logo="https://i.imgur.com/ad0GNqa.png" group-title="Undefined",Nacional Tv Peru
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
+#EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.imgur.com/HzWRvXc.png" group-title="General",Telelima
+https://mserver.latincable.net/TeleLima/index.m3u8
